@@ -1,3 +1,11 @@
+http://docs.ckan.org/en/latest/maintaining/getting-started.html
+
+need -c /etc/ckan/default/ckan.ini when 'getting started' >> ADD TO DOCS
+
+
+
+
+
 ckan-docker
 ===========
 
